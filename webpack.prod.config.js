@@ -38,7 +38,7 @@ module.exports = {
 
     plugins : [
         new HtmlWebpackPlugin({
-            title : '직원 정보 조회 2', 
+            title : 'Oxford Global Hackathon', 
             template : __dirname + '/assets/index.html', 
             filename : 'index.html'      
        }),
