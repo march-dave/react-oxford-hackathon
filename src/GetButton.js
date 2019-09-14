@@ -3,7 +3,6 @@ import { connect } from "react-redux";
 
 const mapStateToProps = (state) => {
 
-    console.log('mapStateToProps1111', state.btnValue)
     return {
         GetBtnValue: state.btnValue
     }
@@ -14,7 +13,7 @@ class GetButton extends Component {
     return (
       <div>
         GetBtnValue: 
-        {/* <input type="text" value={this.props.GetBtnValue} /> */}
+        <input type="text" value={this.props.GetBtnValue} />
         <button>GetButton</button>
       </div>
     );
