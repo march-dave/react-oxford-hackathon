@@ -17,4 +17,3 @@ Debug, Production mode will be choose based on requirement.
 https://github.com/march-dave/webpack-4-test
 
 ## 이건 하다만 프로젝트, 다시 할까? Maybe
-## 이건 하다만 프로젝트, 다시 할까? Maybe
