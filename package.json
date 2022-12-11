@@ -30,7 +30,7 @@
         "webpack-dev-server": "3.8.0"
     },
     "dependencies": {
-        "express": "4.16.4",
+        "express": "4.17.3",
         "heroku-cli": "^7.0.9",
         "react": "16.9.0",
         "react-dom": "16.9.0",
